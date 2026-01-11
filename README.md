@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">I'm Tino from Germany<br><br>- 🔭 I’m working to be a fullstack developer<br>- 📚 I'm currently learning Html,Css,Js</p>
+<p align="center">I'm Tino from Germany<br><br>- 🔭 I’m working on to be a fullstack developer<br>- 📚 I'm currently learning Html,Css,Js</p>
 
 ###
 
