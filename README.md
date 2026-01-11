@@ -5,8 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=$Tinohlm.$TinoHlm
-&right_color=mediumpurple"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tinohlm.TinoHlm&right_color=mediumpurple"  />
 </div>
 
 ###
