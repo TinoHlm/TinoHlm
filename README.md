@@ -52,14 +52,13 @@
 ###
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TinoHlm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinoHlm&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TinoHlm&theme=tokyonight&hide_border=true" alt="github streak" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TinoHlm&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TinoHlm&theme=tokyo-night&hide_border=true&area=true&color=9B7BF7&line=9B7BF7&point=ffffff" alt="contribution activity graph" />
 </div>
 
 ###
